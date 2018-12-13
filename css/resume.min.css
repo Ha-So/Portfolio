@@ -54,12 +54,12 @@ section.resume-section .resume-item .resume-date{min-width:none}
 a:active,a:focus,a:hover{color:#824027}
 
 div#multiColumn {
-    -moz-column-count: 5;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 5;
-    -webkit-column-gap: 20px;
-    column-count: 5;
-    column-gap: 20px;
+    -moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;
 }
 
 
